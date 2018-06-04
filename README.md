@@ -1,0 +1,2 @@
+# indt
+react-firebase
